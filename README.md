@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on any open source that deals with web development.
 - 📫 How to reach me :
 - email : srishtisingh140704@gmail.com
-
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: The first computer virus was a Creeper.
 
 <!---
