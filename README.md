@@ -175,10 +175,6 @@ AI-powered travel planner generating personalized itineraries using Gemini AI an
 
 # 🎯 2026 Goals
 
-✅ Crack Amazon SDE
-
-✅ Crack Microsoft
-
 ✅ Contribute to Open Source
 
 ✅ Build developer tools used by thousands
