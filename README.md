@@ -1,57 +1,206 @@
-<h1 align="center">Hi 👋, I'm Srishti Singh</h1>
-<h3 align="center">Web Developer | Backend Learner | Data Science Enthusiast</h3>
+<h1 align="center">
+Hi 👋, I'm Srishti Singh
+</h1>
+
+<h3 align="center">
+Software Engineer • Building AI-powered Developer Tools • Distributed Systems • Full-Stack Development
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srishtisingh1407&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+Passionate about building scalable software, developer infrastructure, and AI applications that solve real engineering problems.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=srishtisingh1407&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
+</p>
+
+<p align="center">
+<a href="https://github.com/srishtisingh1407">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:srishtisingh140704@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 👩‍💻 About Me  
-- 👀 Passionate about **modern web design** and turning pixels into production-ready code  
-- 🌱 Currently learning **Backend Development** & **Data Science**  
-- 💞️ Open to collaborating on **open-source web development projects**  
-- 📫 Reach me at: **srishtisingh140704@gmail.com**  
-- ⚡ Fun fact: The first computer virus was called **Creeper** (and no, not the Minecraft one 👀)
+# 👩‍💻 About Me
+
+🚀 Software Engineer passionate about building production-grade applications with modern technologies.
+
+💡 Currently building AI-powered developer tools, scalable backend systems, and full-stack applications.
+
+⚙️ Interested in
+
+• Distributed Systems
+
+• Backend Engineering
+
+• Artificial Intelligence
+
+• Cloud Infrastructure
+
+• Developer Productivity
+
+🏆 Looking for Software Engineer opportunities where I can build products used by millions.
 
 ---
 
-### 🛠️ Tech Stack  
+# ⚡ Tech Stack
 
-#### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Languages
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### 🧠 Data Science & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
-### 📊 GitHub Stats  
+## Frontend
+
+Next.js
+
+React
+
+TailwindCSS
+
+Framer Motion
+
+Shadcn/UI
+
+---
+
+## Backend
+
+Node.js
+
+Express.js
+
+REST APIs
+
+FastAPI
+
+JWT Authentication
+
+---
+
+## Database
+
+PostgreSQL
+
+MongoDB
+
+MySQL
+
+Firebase
+
+---
+
+## Cloud & DevOps
+
+Docker
+
+Git
+
+GitHub Actions
+
+AWS (Learning)
+
+Linux
+
+---
+
+## AI / ML
+
+Gemini API
+
+LangChain
+
+Pandas
+
+NumPy
+
+Machine Learning
+
+---
+
+# 🚀 Featured Projects
+
+⭐ CodePilot AI *(Coming Soon)*
+
+AI-powered repository intelligence platform with GitHub integration, semantic search, static analysis, AI code reviews, and RAG.
+
+---
+
+⭐ Distributed Job Queue *(Coming Soon)*
+
+Fault-tolerant asynchronous job processing system using Redis, BullMQ, Docker, and PostgreSQL.
+
+---
+
+⭐ GenTravel
+
+AI-powered travel planner generating personalized itineraries using Gemini AI and Firebase.
+
+---
+
+# 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srishtisingh1407&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishtisingh1407&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srishtisingh1407&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtisingh1407&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtisingh1407&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🤝 Let’s Connect  
-If you’re building something cool, breaking something cool, or fixing something cooler —  
-**count me in.** 🚀
+# 🎯 2026 Goals
+
+✅ Crack Amazon SDE
+
+✅ Crack Microsoft
+
+✅ Contribute to Open Source
+
+✅ Build developer tools used by thousands
+
+✅ Master System Design
+
+✅ 500+ LeetCode Problems
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing
+
+✨ Software Engineering
+
+✨ AI
+
+✨ Distributed Systems
+
+✨ Backend Architecture
+
+✨ Open Source
+
+📩 Feel free to connect!
